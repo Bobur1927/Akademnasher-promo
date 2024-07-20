@@ -1,7 +1,9 @@
+/* SITE-HEADER */
 .site-header {
     background-color: #fff;
 }
 
+/* - */
 .sitenav-list {
   list-style: none;
 }
@@ -16,12 +18,14 @@
     color: #f;
 }
 
+/* MAIN-LINK */
 .main-link {
     font-size: 13px;
     line-height: 15px;
     background-color: #ff7500;
     color: #fff;
 }
+/* HERO */
 
 .hero {
     background-color: #252420;
@@ -54,6 +58,7 @@
  letter-spacing: 0.5px;
 }
 
+/* FEATURES */
 .features-heading {
 width: 440px;
 font-size: 72px;
@@ -61,6 +66,7 @@ line-height: 1.2;
 letter-spacing: 0.5px;
 }
 
+/* FEATURE */
 .feature {
     width: 340px;
 }
@@ -84,6 +90,7 @@ letter-spacing: 0.5px;
     letter-spacing: 0.5px;
 }
 
+/* PROMO */
 .promo {
     background-color: #252420;
     color: #fff;
@@ -113,6 +120,7 @@ line-height: 48px;
     object-fit: cover;
 }
 
+/* SITE-FOOTER */
 .site-footer {
     background-color: #F8F8F8;
 
