@@ -1,3 +1,10 @@
+body {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: "Roboto", "Arial", sens-serif;
+    letter-spacing: 0.5px;
+}
+
 /* SITE-HEADER */
 .site-header {
     background-color: #fff;
@@ -44,8 +51,8 @@
 
 .hero-heading {
     font-size: 40px;
-    line-height: 1.2; 
-    letter-spacing: 0.5px;
+    line-height: 1.2;
+    font-family: "Roboto Condensed", "Roboto", "Arial", sans-serif; 
 }
 
 .hero-img {
@@ -53,16 +60,13 @@
     height: 510px;
 }
 
-.hero-text {
- font-size: 16px;
- letter-spacing: 0.5px;
-}
-
 /* FEATURES */
 .features-heading {
 width: 440px;
 font-size: 72px;
 line-height: 1.2;
+font-family:"Roboto Condensed", "Roboto", "Arial", sans-serif; 
+}
 letter-spacing: 0.5px;
 }
 
@@ -81,14 +85,9 @@ letter-spacing: 0.5px;
 .features-title {
     font-size: 24px;
     line-height: 1.2;
-    letter-spacing: 0.5px;
+    "Roboto Condensed", "Roboto", "Arial", sans-serif
 }
 
-.feature-info {
-    font-style: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.5px;
-}
 
 /* PROMO */
 .promo {
@@ -102,13 +101,10 @@ letter-spacing: 0.5px;
 
 .promo-heading {
 font-size: 40px;
-line-height: 48px;    
+line-height: 48px;  
+"Roboto Condensed", "Roboto", "Arial", sans-serif  
 }
 
-.promo-text {
-    font-size: 16px;
-
-}
 
 .promo-highlight {
      color: #FF7500;
@@ -132,16 +128,12 @@ line-height: 48px;
  background-color: rgba(37, 36, 32, 0.5);
 }
 
-<!-- Beshinchi saqlab qolingan codlar ro'yxati -->
-ul {
-  list-style: none;
- }
- 
- 
- 
- ul a {
-     text-decoration: none;
-     color: #FF7500;
- }
+.site-footer-links {
+    width: 224px;
+    line-height: ;
+}
 
-
+.site-footer-links a {
+    text-dicoration : none;
+    color: #252420;
+}
