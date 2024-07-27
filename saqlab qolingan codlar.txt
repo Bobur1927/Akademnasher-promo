@@ -1,0 +1,365 @@
+.sitenav-link {
+    font-weight: 500px;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* Ikkinchi saqlab qolingan kodlar ro'yxati */
+
+/* Uchunchi saqlab qolingan codlar ro'yxati */
+<li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo dolorum officia voluptate obcaecati velit. Veritatis voluptate dolor placeat atque enim ut voluptatem rerum. Exercitationem ut vel, sint illo aspernatur excepturi?</li>
+<li>Iste quaerat non ad consectetur molestias obcaecati assumenda eos ullam ex repellendus vel quasi hic voluptatum blanditiis iure aliquam pariatur maiores inventore, dolorem magnam rem delectus? Non inventore sit id?</li>
+<li>Alias consectetur id modi pariatur vero ex veniam soluta natus possimus quae architecto, quas, laboriosam animi autem doloribus aliquid esse at culpa saepe aut, suscipit tempore. Harum eligendi nam quos?</li>
+<li>Tempore, error. Velit omnis impedit tempore vero doloribus sapiente unde, quo inventore, dolore in voluptate neque quaerat sit asperiores similique ab, placeat quas adipisci laudantium perspiciatis explicabo laboriosam sequi reprehenderit?</li>
+<li>Eligendi quidem quasi maxime veritatis eaque distinctio placeat, blanditiis in odit laborum doloremque quo voluptatem architecto sed temporibus doloribus eum! Adipisci ea molestias magnam numquam harum id alias, odit repellendus.</li>
+<li>Dicta repellendus voluptatibus aut nisi maxime sapiente hic, nihil officiis labore eveniet libero quia, inventore ratione quos temporibus minima culpa, molestiae nemo est explicabo accusamus accusantium ipsum quod animi. Rerum.</li>
+<li>Commodi facere tenetur totam a? Tempora nihil quas sunt, facilis vitae vero placeat temporibus debitis. Fugit, doloribus sed, quod soluta porro reiciendis ipsam molestiae laborum debitis, cum quia rem architecto!</li>
+<li>Dolorem maiores hic amet dolores eum commodi modi error nam vel odio magnam corrupti a molestiae explicabo, quis illo consequuntur nisi excepturi! Repellat est voluptates, nulla ducimus ipsam molestiae voluptatum!</li>
+<li>Temporibus ratione dolores quaerat minus rerum praesentium esse expedita, in iure veritatis quia harum aperiam fuga quo laudantium ea, recusandae corporis porro! Ducimus voluptatem non quae! Nesciunt officiis ipsa nulla!</li>
+<li>Quis minus nostrum recusandae dignissimos debitis illo at consequuntur aliquam porro necessitatibus adipisci impedit tempore, corporis repellat accusantium minima id quaerat cum. Ducimus, accusamus. Aliquam unde blanditiis placeat enim ducimus?</li>
+
+/* To'rtinchi saqlab qolingan codlar ro'yxati */
+
+<!-- Beshinchi saqlab qolingan codlar ro'yxati -->
+body {
+  font-size: 15px;
+  line-height: 25px;
+  font-family: "Open Sans", "Arial", sans-serif;
+  color: #222;
+}
+
+p {
+  background-color: gold;
+  color:#222;
+}
+
+Roboto 400,500,700
+Roboto Condensed 700
+<!-- Beshinchi saqlab qolingan codlar ro'yxati -->
+ul {
+  list-style: none;
+ }
+ 
+ 
+ 
+ ul a {
+     text-decoration: none;
+     color: #FF7500;
+ }
+
+
+<!-- Oltinchi saqlab qolingan codlar ro'yxati -->
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shrift bilan ishlash</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <h1>Juda-juda uzun shriftni demo qilish uchun yozilgan sarlavha</h1> 
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod tenetur deleniti itaque omnis provident facilis laborum necessitatibus iure sunt qui, cumque dolor autem animi ullam nam odio quo ipsum perspiciatis! Hic delectus tempora quibusdam aspernatur, quisquam, tenetur vitae quis neque facilis odit assumenda eius consequuntur? Est, tempora, quae quod iste pariatur velit molestias recusandae accusamus iusto vel repellat neque autem obcaecati alias. Sint aspernatur possimus iure mollitia laudantium porro impedit esse consequatur illum id, accusantium vitae saepe tempore aliquid rerum sed asperiores dicta voluptas eligendi ipsa at. Consequatur ex magnam cum deleniti. Non aut expedita magnam quidem eveniet possimus eaque!</p>
+
+    <p>Inventore obcaecati omnis est! Deserunt dolore reprehenderit laborum suscipit necessitatibus voluptatem ullam sapiente vel dicta itaque, officia, animi error minus vitae at sed enim quibusdam? Voluptate impedit quasi quia id, recusandae dolores dolore eaque doloremque omnis vitae ipsa nam nihil minus in debitis, aut architecto non possimus, itaque incidunt? Quasi, ut distinctio laudantium velit dolorem laboriosam repudiandae libero, suscipit, nemo temporibus non vitae porro a et aliquam magnam reprehenderit alias deleniti inventore veniam minus. Delectus, doloribus fugiat laudantium aut dolorem in inventore reprehenderit nesciunt. Ipsum eaque dolorum at magnam. Nobis impedit beatae culpa quasi veniam iusto nam libero earum? Earum.</p>
+
+    <p>Nisi sunt vitae aliquid error veritatis exercitationem cumque quod inventore delectus ipsum asperiores, quo explicabo voluptas aut consectetur unde suscipit tempore! Deserunt officiis quia rem eius et molestiae at quasi aliquid laudantium sequi? Provident corporis velit magni vitae impedit, culpa non in omnis rem est. Labore fuga suscipit optio magnam nobis ut perferendis, porro officia commodi esse soluta unde similique, consequatur corporis veniam velit iste cum quisquam? Magnam iusto, nam, doloremque, alias id laudantium doloribus ab quia quae consequuntur quos velit pariatur necessitatibus nesciunt? Eos, optio dolores modi corporis possimus voluptatem magni laborum recusandae earum. Iure maiores aspernatur praesentium harum!</p>
+
+    <p>Corporis in suscipit praesentium molestiae eaque quia autem tenetur deleniti, saepe fugit, dolorem veniam, illo distinctio exercitationem ea! Dolorum assumenda excepturi dolorem similique modi laborum maiores at ab, laudantium placeat quod dolores veniam nam expedita velit hic blanditiis, in voluptates possimus. Eligendi vel ipsam quibusdam eos praesentium. Dolores, laudantium recusandae dignissimos sint repellat libero repellendus temporibus consequuntur accusamus minus dolorem. Corrupti molestiae dolorum repellat vero non inventore, veritatis hic nesciunt quis quasi eos quas, animi perferendis cum fuga minus, aliquid maxime error unde dignissimos facere veniam ratione distinctio. Recusandae dignissimos molestiae qui eius cum sunt nemo adipisci amet alias impedit!</p>
+
+</body>
+</html>
+<!-- Yettinchi saqlab qolingan codlar ro'yxati -->
+h1 {
+  font-family: Palatino, serif;
+}
+
+p {
+  font-size: 24px;
+  line-height: 1.5;
+  /* serif - bosma nashr,chiroyli */
+  /* sens-serif - tekis,raqamli texnologiya/ekran */
+  /* cursive - qo'lyozma */
+  /* monospace - har bir harf eni bir xil */
+
+  font-family: serif;
+}
+
+.monospace-font {
+  font-family: consolas, monospace;
+}
+<!-- Sakkizinchi saqlab qolingan codlar ro'yxati -->
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shriftlar bilan ishlar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com"crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&
+ display=swap" rel="stylesheet">   
+ <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    
+<h1>Google Fontsdan shriftlarni olib kelish</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati maxime aliquam praesentium dolorem minus excepturi debitis perferendis quo corrupti numquam. Architecto dicta ab reiciendis praesentium! Quas aperiam et nisi illum.</p>
+
+</body>
+</html>
+<!-- To'qqizinchi saqlab qolingan codlar ro'yxati -->
+body {
+  font-family: "Ubuntu", sans-serif
+}
+<!-- O'ninchi saqlab qolingan codlar ro'yxati -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="preconnect" href="https://fonts.googleapis.com/css2?family=Robot+Condensed:wght@700&
+display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="preconnect" href="https://fonts.googleapis.com/css2?family=Open+Sans& display=swap  " rel="stylesheet">
+<!-- O'n birinchi saqlab qolingan codlar ro'yxati -->
+.site-heading {
+  font-family: "Roboto Condensend", "Arial", sans-serif;
+}
+
+p {
+font-family: "Open Sans", "Arial", sans-serif;
+line-height: 1.5;
+}
+<!-- O'n ikkinchi saqlab qolingan codlar ro'yxati -->
+<h1 class="site-heading">Sayt sarlavhsi</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate officia voluptas explicabo voluptatibus deleniti sit laboriosam quisquam laborum eum voluptatum et ex nobis odio possimus dicta quas, quos pariatur repudiandae.</p>
+<p>Officia ipsa iusto quos saepe delectus et aliquid aperiam vel est quo, nostrum harum sint. Sed non, nostrum quidem quisquam, saepe veniam quam porro placeat repellat perspiciatis expedita, optio at?</p>
+<p>Rem facere vitae recusandae aliquid, adipisci illum animi. Nam fuga quibusdam corrupti quos, aliquam rerum recusandae alias soluta voluptate in atque ipsum sint ad ducimus ab beatae voluptatem voluptatibus consequuntur.</p> 
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium accusantium repellat, quae, ea rerum porro dignissimos ex unde veniam consequuntur, velit aut nobis repellendus id! Nobis alias saepe aliquid nisi in amet facilis ipsa tempora! Vel, culpa quibusdam. Dolorem, esse similique quos quisquam quam dolore ipsum perspiciatis soluta tempora in!</p>
+<p>Quidem eligendi inventore odio animi voluptatum, voluptatibus unde quasi quo sit aspernatur veniam natus maiores cum aut vero blanditiis ex veritatis dolores culpa! Ut, veniam. Sed molestias hic at! Iure omnis cum ut aspernatur molestiae laborum nisi sit, deleniti nemo assumenda? Odio, cumque. Maiores, aliquam. Minus molestiae dolor incidunt ab.</p>
+<p>Aperiam iure illum velit ipsam eveniet molestias, aliquam praesentium tenetur vitae voluptas aut asperiores cupiditate labore, rem repellendus quisquam harum, maxime corrupti nostrum pariatur non corporis? Animi doloremque laborum reiciendis nihil voluptatibus! Asperiores architecto error aliquid facere sed neque dicta, nostrum excepturi nemo labore, placeat obcaecati dolor. Error, asperiores laborum.</p>
+
+<ul>
+    <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde reiciendis corrupti ipsam quos vitae expedita quo, nesciunt adipisci ullam accusamus modi odit commodi ad, voluptate architecto! Omnis, quae ipsam! At?</li>
+    <li>Omnis sit placeat natus dolorem, maiores commodi porro obcaecati ratione possimus provident autem laudantium aut sapiente, expedita culpa pariatur, fugiat velit enim at facere tempore. Earum placeat nihil tempora ipsa?</li>
+    <li>Soluta ratione possimus animi, ipsum unde sed impedit tempora necessitatibus consequuntur sapiente iste, itaque at, nisi molestiae voluptate dicta officia provident aliquam cumque! Quas optio, consectetur unde ipsum dolore reiciendis?</li>
+    <li>A ad mollitia in velit tenetur alias adipisci facilis sint pariatur iure labore tempora blanditiis eaque id ex ipsa aliquid, reiciendis et excepturi magnam architecto. Harum unde numquam ab aut.</li>
+</ul>
+<!-- O'n uchunchi saqlab qolingan codlar -->
+
+<!-- O'n to'rtinchi saqlab qolingan codlar ro'yxati -->
+
+<!-- O'n beshinchi saqlab qolingan codlar ro'yxati -->
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akademnasher</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google-Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@700&family=Roboto:wght@400,500,700&display=swap" rel="stylesheet">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">    
+</head>
+<body>
+  <div class="parent">
+      <div class="child child-green">Child green Lorem ipsum dolor sit amet.</div>
+
+      <div class="child child-gold">Child gold Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora,
+     omnis tenetur optio facilis possimus excepturi.</div>
+     
+      <div class="child child-gold">Child orange Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta veniam animi, 
+        quia voluptatum ex rerum quos error soluta maxime. Tempora dolores accusantium adipisci ducimus nisi!   </div>
+  </div>
+
+</body>
+</html>  
+
+<!-- O'n oltinchi sqlab qolingan codlar ro'yxati-->
+<img
+src="img/logo.svg"
+alt="Akademnashr logo"
+width="227"
+height="60"
+
+<!-- O'n Yettinchi  sqlab qolingan codlar ro'yxati-->
+
+
+<!-- O'n sakkizinchi saqlab qolingan codlar ro'yxati-->
+<div class="parent">
+    <div class="child child-green">Child green</div>
+    <div class="child child-gold">Child gold</div>
+    <div class="child child-orange">Child orange</div>
+    </div>  
+
+    <hr>
+
+    <a class="demo-test-link" href="#">Demo test link</a>
+
+    <a href="https://mytube.uz"></a>
+
+<!-- O'n to'qqizinchi saqlab qolingan codlar ro'yxati-->
+.body {
+  font-family: "Arial", sens-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #222;
+}
+
+.parent {
+  display: flex;
+  flex-wrap: nowrap;
+  /* justify-content: center;
+  align-items: center; */
+  background-color: lightblue;
+}
+
+.child {
+  width: 300px;
+/* font-size: 24px;
+font-weight: bold;
+text-align: center */
+}
+
+.child-green {
+  background-color: lightgreen;
+}
+
+.child-green:hover {
+  background-color: green;
+}
+
+.child-gold {
+  background-color: gold;
+}
+
+.child-gold:hover {
+  background-color: goldenrod;
+}
+
+.child-orange {
+  background-color: orange;
+}
+
+.child-orange:hover {
+  background-color: orangered;
+}
+
+.demo-test-link {
+  background-color: #222;
+  color: white;
+  text-decoration: none;
+}
+
+.demo-test-link:hover {
+  background-color: lightseagreen;
+  color: #222;
+}
+
+.demo-test-link:active {
+  background-color: lightcoral;
+}
+
+.demo-test-link:focus {
+  background-color: blue; 
+}
+
+a:visited {
+color: grey;
+}
+
+/* DRY-Don't Repeat You'reself    */  
+
+
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #222;
+}
+
+.box {
+  display: flex;
+justify-content: center;
+align-items: center;
+width: 300px;
+height: 300px;
+font-size: 20px;
+background-color: lightskyblue;
+transition: font-size 0.4s ease,
+background-color 0.4s ease,
+color 0.4s ease;
+}
+
+.box:hover {
+  font-family: serif;
+  font-size: 48px;
+  background-color: lightgreen;
+  color: #fff;
+}
+
+
+(eng kerakligi bravzirda mishkani kursatgichini ko'rinmas qilib berirdi achoyib)
+*{
+  cursor:none
+}
+
+Yigirmanchi saqlab qolingan codlar ro'yxati
+  body {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #222;
+}
+
+*:focus {
+  outline-color: orangered;
+  outline-offset: 3px;
+  outline-width: 3px;
+  outline-style: dotted ;
+}
+
+Yigirma birinchi saqlab qolingan codlar ro'yxati
+<ul>
+    <li><a href="#">Test 01</a></li>
+    <li><a href="#">Test 02</a></li>
+    <li><a href="#">Test 03</a></li>
+    <li><a href="#">Test 04</a></li>
+    <li><a href="#">Test 05</a></li>
+    <li><a href="#">Test 06</a></li>
+    <li><a href="#">Test 07</a></li>
+    <li><a href="#">Test 08</a></li>
+ </ul>
+
+Yigirma ikkinchi saqlab qolingan codlar ro'yxati
+.wrapper {
+  display: flex;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 300px;
+  font-size: 24px;
+  background-color: orange;
+  text-transform: uppercase;
+}
+
+.opacity {
+  opacity: 0;
+}
+
+.color {
+  background-color: rgba(255, 165, 0, 0.5);
+}

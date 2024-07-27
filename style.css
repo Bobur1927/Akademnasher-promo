@@ -1,139 +1,203 @@
-body {
-    font-size: 16px;
-    line-height: 1.5;
-    font-family: "Roboto", "Arial", sens-serif;
-    letter-spacing: 0.5px;
+.body {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "Roboto", "Arial", sens-serif;
+  letter-spacing: 0.5px;
 }
 
 /* SITE-HEADER */
 .site-header {
-    background-color: #fff;
+  display: flex;            
+  justify-content: space-between;            
+  align-items: center;
+  background-color: #fff;
 }
 
-/* - */
+  .logo-link {
+ transition: opacity 0.4s ease;
+  }
+
+  .logo-link:hover {
+    opacity: 0.8;
+  }
+
+  .logo-link:active {
+    opacity: 0.6;
+  }
+
+  
+
+.site-header-actions {
+  display: flex;
+  align-items: center;
+}
+
+/* SITENAV-LINK */
 .sitenav-list {
   list-style: none;
+  display: flex;  
 }
 
 .sitenav-link {
-    font-size: 13px;
-    line-height: 15px;
-    font-weight: 500px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    text-decoration: none;
-    color: #f;
+  font-size: 13px;
+  line-height: 15px;
+  font-weight: 500px;
+  letter-spacing: 1px;
+  text-transform: uppercase;  
+  text-decoration: none;
+  color: #000;
+transition: color 0.4s ease,
+ opacity 0.4s ease  
+}
+
+.sitenav-link:hover {
+  color: #ff7500;
 }
 
 /* MAIN-LINK */
 .main-link {
-    font-size: 13px;
-    line-height: 15px;
-    background-color: #ff7500;
-    color: #fff;
+  font-size: 13px;
+  line-height: 15px;
+  background-color: #ff7500;
+  color: #fff;
+  transition: opacity 0.4 ease;
 }
+
+.main-link:hover {
+  opacity: 0.8;
+}
+
+.main-link:active {
+  opacity: 0.6;
+}
+
+
 /* HERO */
 
 .hero {
-    background-color: #252420;
-    color: #fff;
+  display: flex;
+  justify-content:space-between  ;
+  align-items: center;
+  background-color: #252420;
+  color: #fff;
 }
 
 .hero-content {
- width: 390px;
+  width: 390px;
 }
 
 .orange-line {
-    width: 80px; 
-    height: 3px;
-    background-color: #FF7500;
+  width: 80px; 
+  height: 3px;
+  background-color: #FF7500;
 }
 
 .hero-heading {
-    font-size: 40px;
-    line-height: 1.2;
-    font-family: "Roboto Condensed", "Roboto", "Arial", sans-serif; 
+  font-size: 40px;
+  line-height: 1.2;
+  font-family: "Roboto Condensed", "Roboto", "Arial", sans-serif; 
 }
 
 .hero-img {
-    width: 510px;
-    height: 510px;
+  width: 510px;
+  height: 510px;
 }
 
 /* FEATURES */
 .features-heading {
-width: 440px;
-font-size: 72px;
-line-height: 1.2;
-font-family:"Roboto Condensed", "Roboto", "Arial", sans-serif; 
+  width: 440px;
+  font-size: 72px;
+  line-height: 1.2;
+  font-family:"Roboto Condensed", "Roboto", "Arial", sans-serif; 
+  letter-spacing: 0.5px;
 }
-letter-spacing: 0.5px;
+
+
+.feature-list {
+  display: flex;
+justify-content: space-between;
+  list-style: none;
 }
 
 /* FEATURE */
 .feature {
-    width: 340px;
+  width: 340px;
 }
 
 
 .feature-icon-wrapper {
-    width: 100px;
-    height: 100px;
-    background-color: rgba(255, 117, 0, 0.2);
+  width: 100px;
+  height: 100px;
+  background-color: rgba(255, 117, 0, 0.2);
 }
 
 .features-title {
-    font-size: 24px;
-    line-height: 1.2;
-    "Roboto Condensed", "Roboto", "Arial", sans-serif
+  font-size: 24px;
+  line-height: 1.2;
+  font-family: "Roboto Condensed", "Roboto", "Arial", sans-serif;
 }
 
 
 /* PROMO */
 .promo {
-    background-color: #252420;
-    color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #252420;
+  color: #fff;
 }
 
 .promo-content {
-    width: 440px;
+  width: 440px;
 }
 
 .promo-heading {
-font-size: 40px;
-line-height: 48px;  
-"Roboto Condensed", "Roboto", "Arial", sans-serif  
+  font-size: 40px;
+  line-height: 48px;  
+  font-family: "Roboto Condensed", "Roboto", "Arial", sans-serif;
 }
 
 
 .promo-highlight {
-     color: #FF7500;
+  color: #FF7500;
 }
 
 .promo-img {
-    width: 440px;
-    height: 440px;
-    object-fit: cover;
+  width: 440px;
+  height: 440px;
+  object-fit: cover;
 }
 
 /* SITE-FOOTER */
 .site-footer {
-    background-color: #F8F8F8;
+  background-color: #F8F8F8;
+  
+}
+
+.site-footer-top {
+ display: flex;
 
 }
 
 .site-footer-divider {
-    height: 2px;
-    
- background-color: rgba(37, 36, 32, 0.5);
+  height: 2px;
+  background-color: rgba(37, 36, 32, 0.5);
 }
 
 .site-footer-links {
-    width: 224px;
-    line-height: ;
+  width: 224px;
+  /* line-height: ; */
 }
 
 .site-footer-links a {
-    text-dicoration : none;
-    color: #252420;
+  text-decoration : none;
+  color: #252420;
+}
+
+.site-footer-links a {
+  color: #ff7500;
+}
+
+.site-footer-links a:focus {
+  opacity: 0.6;
 }
