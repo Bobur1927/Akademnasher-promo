@@ -5,6 +5,11 @@
   letter-spacing: 0.5px;
 }
 
+*:focus {
+  outline: 2px dotted #ff7500;
+  outline-offset:  3px;
+}
+
 /* SITE-HEADER */
 .site-header {
   display: flex;            
@@ -34,8 +39,7 @@
 
 /* SITENAV-LINK */
 .sitenav-list {
-  list-style: none;
-  display: flex;  
+  list-style: none; 
 }
 
 .sitenav-link {
@@ -44,6 +48,8 @@
   font-weight: 500px;
   letter-spacing: 1px;
   text-transform: uppercase;  
+  display: flex;
+  list-style: none;
   text-decoration: none;
   color: #000;
 transition: color 0.4s ease,
@@ -198,6 +204,6 @@ justify-content: space-between;
   color: #ff7500;
 }
 
-.site-footer-links a:focus {
+.site-footer-links a:active {
   opacity: 0.6;
 }
