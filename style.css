@@ -15,6 +15,9 @@
   display: flex;            
   justify-content: space-between;            
   align-items: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-top: 5px solid #ff7500;
   background-color: #fff;
 }
 
@@ -39,6 +42,8 @@
 
 /* SITENAV-LINK */
 .sitenav-list {
+  display: flex;
+  padding: 0;
   list-style: none; 
 }
 
@@ -62,10 +67,19 @@ transition: color 0.4s ease,
 
 /* MAIN-LINK */
 .main-link {
+  display: inline-block;
+  padding:12px 24px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 4px;
   font-size: 13px;
   line-height: 15px;
+  font-weight: bold;
   background-color: #ff7500;
   color: #fff;
+  text-decoration: none;
   transition: opacity 0.4 ease;
 }
 
@@ -84,6 +98,8 @@ transition: color 0.4s ease,
   display: flex;
   justify-content:space-between  ;
   align-items: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
   background-color: #252420;
   color: #fff;
 }
@@ -95,6 +111,7 @@ transition: color 0.4s ease,
 .orange-line {
   width: 80px; 
   height: 3px;
+  border: 0;
   background-color: #FF7500;
 }
 
@@ -107,9 +124,15 @@ transition: color 0.4s ease,
 .hero-img {
   width: 510px;
   height: 510px;
+  border-radius: 8px;
 }
 
 /* FEATURES */
+.feature {
+  padding-top: 210px;
+  padding-bottom: 210px;  
+}
+
 .features-heading {
   width: 440px;
   font-size: 72px;
@@ -121,7 +144,8 @@ transition: color 0.4s ease,
 
 .feature-list {
   display: flex;
-justify-content: space-between;
+  justify-content: space-between;
+  padding: 0;
   list-style: none;
 }
 
@@ -132,8 +156,12 @@ justify-content: space-between;
 
 
 .feature-icon-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100px;
   height: 100px;
+  border-radius: 50%;
   background-color: rgba(255, 117, 0, 0.2);
 }
 
@@ -149,6 +177,7 @@ justify-content: space-between;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-radius: 12px;
   background-color: #252420;
   color: #fff;
 }
@@ -171,11 +200,14 @@ justify-content: space-between;
 .promo-img {
   width: 440px;
   height: 440px;
+  border-radius: 12px;
   object-fit: cover;
 }
 
 /* SITE-FOOTER */
 .site-footer {
+  padding-top: 56px;
+  padding-bottom: 56px;
   background-color: #F8F8F8;
   
 }
@@ -187,6 +219,7 @@ justify-content: space-between;
 
 .site-footer-divider {
   height: 2px;
+  border: 0;
   background-color: rgba(37, 36, 32, 0.5);
 }
 
@@ -206,4 +239,4 @@ justify-content: space-between;
 
 .site-footer-links a:active {
   opacity: 0.6;
-}
+} 
